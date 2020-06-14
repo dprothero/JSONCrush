@@ -1,0 +1,23 @@
+{
+  "name": "jsoncrush",
+  "version": "0.1.0",
+  "description": "Compress JSON in URL friendly strings",
+  "main": "JSONCrush.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dprothero/JSONCrush.git"
+  },
+  "keywords": [
+    "JSON",
+    "compression"
+  ],
+  "author": "KilledByAPixel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dprothero/JSONCrush/issues"
+  },
+  "homepage": "https://github.com/dprothero/JSONCrush#readme"
+}
